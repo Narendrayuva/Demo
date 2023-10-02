@@ -1,0 +1,1 @@
+print("Harsha",90)
