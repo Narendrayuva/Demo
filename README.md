@@ -1,2 +1,2 @@
 # Demo
-Just for Practice
+Github tut for practice
